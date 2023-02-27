@@ -200,3 +200,9 @@ button:hover {
         grid-template-columns: 1fr;
     }
 }
+
+@media (max-width: 400px) {
+    #navbar {
+        font-size: 14px;
+    }
+}
